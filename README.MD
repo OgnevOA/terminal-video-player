@@ -1,5 +1,3 @@
-Okay, here is the updated `README.md` reflecting that audio is now off by default and requires the `--audio` flag to be enabled.
-
 # Terminal Video Player (ASCII/Braille)
 
 This Python script allows you to play YouTube videos, local video files, or your webcam feed directly in your terminal, rendering them using either colored ASCII characters or colored Unicode Braille patterns. Optionally, it can attempt to play audio (with an 8-bit effect) alongside the video.
